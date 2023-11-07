@@ -1,2 +1,3 @@
 # Hello-world
 tech-ideas
+Hi My name is Maricela Torres. I study at Ivy Tech Community College. I grew up in a small town named Owensboro, Kentucky. I love fashion and technology. I grew up watching YouTube videos that were creative, innovative, and motivational. After a few years of reasearch of different career paths I would like to consider, I have gained an understanding of what Data Analytics requires and I have become very interested in pursuing this career which is the science of analyzing raw data to make conclusions about information. This knowledge is essential for me to obtain because in the future one of my dreams is to become a business owener. 
